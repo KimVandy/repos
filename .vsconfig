@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "components": [
+    "Microsoft.VisualStudio.Component.CoreEditor",
+    "Microsoft.VisualStudio.Workload.CoreEditor",
+    "Microsoft.VisualStudio.Component.SQL.CLR",
+    "Microsoft.VisualStudio.Workload.NetWeb",
+    "Microsoft.VisualStudio.Workload.Node",
+    "Microsoft.VisualStudio.Component.Git",
+    "Microsoft.VisualStudio.Component.VisualStudioData"
+  ]
+}
